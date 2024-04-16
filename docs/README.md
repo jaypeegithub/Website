@@ -1,7 +1,7 @@
 # Website
 my website
 
-read [about](/Website/about.md) me here!
+read [about](/Website/about) me here!
 
 
 ## Resources
