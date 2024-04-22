@@ -1,4 +1,4 @@
 #configuration file
-theme: jekyll-theme-architect
+theme: jekyll-theme-dinky
 baseurl: "/Website" # the subpath of your site, e.g. /blog
 url: "https://github.jaypeegithub.com" # the base hostname & protocol for your site, e.g. http://example.com
