@@ -1,7 +1,6 @@
 # JP Blog
 Welcome to a blog
 
-read [about](/Website/about) me here!
 
 
 ## Resources
